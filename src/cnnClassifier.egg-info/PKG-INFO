@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/CharanPeela/Classification_of_kidney_disease
+Author: CharanPeela
+Author-email: charanpeelafw@gmail.com
+Project-URL: Bug Tracker, https://github.com/CharanPeela/Classification_of_kidney_disease/issues
+License-File: LICENSE
+
+# Classification_of_kidney_disease
